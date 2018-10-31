@@ -5,7 +5,7 @@
       {
         "appID": "67YCTE7MYP.ru.100sp.iphoneapp",
         "paths": [
-          "/pg/finish*"
+          "*"
         ]
       }
     ]
